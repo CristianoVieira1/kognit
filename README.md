@@ -1,9 +1,9 @@
 
 <h3 align="center">
-  Digital Bank
+Kognit
 </h3>
 
-<p align="center">Aplicativo React Native Bank</p>
+<p align="center">Teste de desenvolvimento</p>
 
 <p align="center">
   <a href="#%EF%B8%8F-about-the-project">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -15,9 +15,7 @@
 
 ## 💇🏻‍♂️ Sobre o projeto
 
-Projeto em desenvolvimento...
-
-Digital Bank é um aplicativo de banco digital, onde você pode fazer transferências, pagamentos, depósitos, saques, etc.
+Projeto concluido para o teste de desenvolvimento da Kognit.
 
 ## 🚀 Technologies
 
