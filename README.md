@@ -66,4 +66,4 @@ Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE](
 
 ---
 
-Feito com 💜 por Digital Business 👋 [linkedin](https://www.digitalbusiness.com.br/)
+Feito com 💜 por Cristiano Borges 👋 [linkedin](https://www.linkedin.com/in/cristianobv/)
