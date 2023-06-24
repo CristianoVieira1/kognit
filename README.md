@@ -38,12 +38,12 @@ Tecnologias que usei para desenvolver este cliente móvel
 
 ### Requirements
 
-Ambiente configurado para emular aplicativos.
+Ambiente configurado.
 
 **Clone o projeto e acesse a pasta**
 
 ```bash
-$ git clone && cd digital-bank
+$ git clone && cd kognit
 ```
 
 **Siga os passos abaixo**
